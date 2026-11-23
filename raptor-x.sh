@@ -4,7 +4,7 @@ python3 <<EOF
 import pyfiglet
 def banner():
     custom_fig = pyfiglet.Figlet(font='slant')
-    print(custom_fig.renderText("Raptor - x"))
+    print(custom_fig.renderText("Raptor - X"))
 banner()
 EOF
 
