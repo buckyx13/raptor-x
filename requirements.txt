@@ -1,0 +1,6 @@
+requests
+python-nmap
+tqdm
+paramiko
+beautifulsoup4
+pyfiglet
